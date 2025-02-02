@@ -1,3 +1,5 @@
+python==3.10
+pip
 langchain
 langchain_community
 langchain-google-genai
