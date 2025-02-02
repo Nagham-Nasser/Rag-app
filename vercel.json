@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "app.py", "use": "@vercel/python" }  // Replace "app.py" with your main file
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "app.py" } // Replace "app.py" with your main file
+  ],
+  "functions": {
+    "app.py": {  // Replace "app.py" with your main file
+      "runtime": "python3.10" // Specify your Python version (or a supported one)
+    }
+  }
+}
