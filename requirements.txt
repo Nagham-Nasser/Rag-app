@@ -1,6 +1,10 @@
+langchain_experimental
+langchain_chroma
+langchainhub
+pypdf
 fastapi==0.115.8
 pydantic==2.10.6
-langchain==.3.17
+langchain==0.3.17
 langchain-community==0.3.16
 chromadb==0.6.3
 langchain-google-genai==2.0.9
