@@ -1,10 +1,10 @@
-fastapi>=0.95.2  # Or a more recent version if you prefer
-pydantic==1.10.12
-langchain==0.0.222
-langchain-community==0.0.12
-chromadb==0.4.14
-langchain-google-genai==0.0.5
-python-dotenv==1.0.0
-typing-extensions==4.7.1
+fastapi==0.115.8
+pydantic==2.10.6
+langchain==.3.17
+langchain-community==0.3.16
+chromadb==0.6.3
+langchain-google-genai==2.0.9
+python-dotenv==1.0.1
+typing-extensions==4.12.2
 sentence-transformers==2.2.2
-streamlit  
+streamlit==1.14.1
