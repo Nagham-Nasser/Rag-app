@@ -1,12 +1,11 @@
 langchain_experimental
-langchain_chroma
+langchain_chroma==0.2.1
 langchainhub
 pypdf
 fastapi==0.115.8
 pydantic==2.10.6
 langchain==0.3.17
 langchain-community==0.3.16
-chromadb==0.6.3
 langchain-google-genai==2.0.9
 python-dotenv==1.0.1
 typing-extensions==4.12.2
