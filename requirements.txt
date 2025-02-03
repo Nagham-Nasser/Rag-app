@@ -7,3 +7,4 @@ langchain-google-genai==0.0.5
 python-dotenv==1.0.0
 typing-extensions==4.7.1
 sentence-transformers==2.2.2
+streamlit  
