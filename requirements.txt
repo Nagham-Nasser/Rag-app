@@ -1,4 +1,4 @@
-fastapi==0.95.1
+fastapi>=0.95.2  # Or a more recent version if you prefer
 pydantic==1.10.12
 langchain==0.0.222
 langchain-community==0.0.12
@@ -6,4 +6,4 @@ chromadb==0.4.14
 langchain-google-genai==0.0.5
 python-dotenv==1.0.0
 typing-extensions==4.7.1
-sentence-transformers==2.2.2  # Important for embeddings
+sentence-transformers==2.2.2
