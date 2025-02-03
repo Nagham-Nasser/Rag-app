@@ -1,12 +1,9 @@
-langchain==0.0.260  # Replace with the actual version
-langchain_community==0.0.18 # Replace with the actual version
-langchain-google-genai==0.0.5 # Replace with the actual version
-python-dotenv==1.0.0 # Replace with the actual version
-fastapi==0.95.0 # Replace with the actual version
-langchain_experimental==0.0.9 # Replace with the actual version
-sentence-transformers==2.2.2 # Replace with the actual version
-langchain_chroma==0.0.4 # Replace with the actual version
-langchainhub==0.1.0 # Replace with the actual version
-pypdf==3.1.0 # Replace with the actual version
-rapidocr-onnxruntime==1.0.2 # Replace with the actual version
-streamlit==1.22.0 # Add streamlit itself and the correct version!! This is important!
+fastapi==0.95.1
+pydantic==1.10.12
+langchain==0.0.222
+langchain-community==0.0.12
+chromadb==0.4.14
+langchain-google-genai==0.0.5
+python-dotenv==1.0.0
+typing-extensions==4.7.1
+sentence-transformers==2.2.2  # Important for embeddings
